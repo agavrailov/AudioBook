@@ -28,11 +28,14 @@ for filename in os.listdir("../output"):
         # Set up Text-to-Speech request
         synthesis_input = texttospeech.SynthesisInput(text=summary)
         voice = texttospeech.VoiceSelectionParams(
-            language_code="en-US", ssml_gender=texttospeech.SsmlVoiceGender.NEUTRAL
+            language_code="en-US",
+            name="en-US-Neural2-D",
+            ssml_gender=texttospeech.SsmlVoiceGender.MALE,
         )
         audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3
+            audio_encoding=texttospeech.AudioEncoding.LINEAR16,
         )
+
         request = texttospeech.SynthesizeSpeechRequest(
             input=synthesis_input, voice=voice, audio_config=audio_config
         )
