@@ -9,9 +9,9 @@ book_title = "Thinking, Fast and Slow"
 chapter_names = ["Chapter 2", "Chapter 3", "Chapter 4"]
 
 # Loop through each chapter and summarize using OpenAI API
-for chapter_name in chapter_names:
+for chapter_name in [1:39]
     # Build prompt string
-    prompt = f"Summarize {chapter_name} of {book_title} by Daniel Kahneman 'Thinking, Fast and Slow', using bullet points.\nPlease, refrain from expressing any personal opinion\nAt the end, provide conclusion of the chapter.\n\n"
+    prompt = f"Summarize Chapter {chapter_name} of {book_title} by Daniel Kahneman 'Thinking, Fast and Slow', using bullet points.\nPlease, refrain from expressing any personal opinion\nAt the end, provide conclusion of the chapter.\n\n"
 
     # Query OpenAI API
     response = openai.Completion.create(
