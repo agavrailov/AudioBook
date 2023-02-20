@@ -1,30 +1,43 @@
-from google.cloud import texttospeech
 import os
+import re
+from google.cloud import texttospeech
 
-# Define book title and chapter names
-book_title = "Thinking, Fast and Slow"
-chapter_names = [f"Chapter {i}" for i in range(1, 40)]
+# Set up Google Cloud Text-to-Speech credentials
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../burnished-road-378220-e10d29d380d2.json"
 
-# Set up Google Cloud Text-to-Speech client and voice options
+# Set up Text-to-Speech client
 client = texttospeech.TextToSpeechClient()
-voice = texttospeech.VoiceSelectionParams(
-    language_code="en-US", name="en-US-Wavenet-D", ssml_gender=texttospeech.SsmlVoiceGender.NEUTRAL
-)
-audio_config = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncoding.MP3)
 
-# Loop through each chapter and generate audio file using Google Cloud Text-to-Speech
-for chapter_name in chapter_names:
-    # Define input and output file names
-    input_filename = f"{chapter_name}.txt"
-    output_filename = f"{chapter_name}.mp3"
-    # Load input text file
-    with open(input_filename, "r") as f:
-        text = f.read().replace("\n", " ")
-    # Set up and execute synthesis request
-    synthesis_input = texttospeech.SynthesisInput(text=text)
-    response = client.synthesize_speech(
-        input=synthesis_input, voice=voice, audio_config=audio_config
-    )
-    # Save audio file
-    with open(output_filename, "wb") as out:
-        out.write(response.audio_content)
+# Define book title
+book_title = "Thinking, Fast and Slow"
+
+# Define regex pattern to match chapter title
+pattern = r"Chapter \d+ - (.+)\.txt"
+
+# Loop through each file in the output directory
+for filename in os.listdir("output"):
+    # Match the chapter title using regex
+    match = re.match(pattern, filename)
+    if match:
+        chapter_title = match.group(1)
+
+        # Read the chapter summary from the file
+        with open(os.path.join("output", filename), "r") as f:
+            summary = f.read().strip()
+
+        # Set up Text-to-Speech request
+        synthesis_input = texttospeech.SynthesisInput(text=summary)
+        voice = texttospeech.VoiceSelectionParams(
+            language_code="en-US", ssml_gender=texttospeech.SsmlVoiceGender.NEUTRAL
+        )
+        audio_config = texttospeech.AudioConfig(
+            audio_encoding=texttospeech.AudioEncoding.MP3
+        )
+        request = texttospeech.SynthesizeSpeechRequest(
+            input=synthesis_input, voice=voice, audio_config=audio_config
+        )
+
+        # Generate the speech and save to file
+        response = client.synthesize_speech(request=request)
+        with open(os.path.join("audio", f"{chapter_title}.mp3"), "wb") as f:
+            f.write(response.audio_content)
