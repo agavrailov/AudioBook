@@ -33,7 +33,7 @@ for filename in os.listdir("../output"):
             ssml_gender=texttospeech.SsmlVoiceGender.MALE,
         )
         audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.LINEAR16,
+            audio_encoding=texttospeech.AudioEncoding.OGG_OPUS,
         )
 
         request = texttospeech.SynthesizeSpeechRequest(
