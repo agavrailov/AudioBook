@@ -3,7 +3,7 @@ import os
 
 # Define book title and chapter names
 book_title = "Thinking, Fast and Slow"
-chapter_names = ["Chapter 1", "Chapter 2", "Chapter 3", ... "Chapter 39"]
+chapter_names = [f"Chapter {i}" for i in range(1, 40)]
 
 # Set up Google Cloud Text-to-Speech client and voice options
 client = texttospeech.TextToSpeechClient()
