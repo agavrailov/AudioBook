@@ -14,10 +14,10 @@ book_title = "Thinking, Fast and Slow"
 # Define regex pattern to match chapter title
 
 # Loop through each file in the output directory
-for filename in os.listdir("../output"):
+for filename in os.listdir("output"):
 
         # Read the chapter summary from the file
-        with open(os.path.join("/output", filename), "r") as f:
+        with open(os.path.join("output", filename), "r") as f:
             summary = f.read().strip()
 
         # Set up Text-to-Speech request
@@ -37,5 +37,5 @@ for filename in os.listdir("../output"):
 
         # Generate the speech and save to file
         response = client.synthesize_speech(request=request)
-        with open(os.path.join("/audio", f"{filename}.mp3"), "wb") as f:
+        with open(os.path.join("audio", f"{filename}.mp3"), "wb") as f:
             f.write(response.audio_content)
