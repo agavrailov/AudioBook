@@ -12,14 +12,9 @@ client = texttospeech.TextToSpeechClient()
 book_title = "Thinking, Fast and Slow"
 
 # Define regex pattern to match chapter title
-pattern = r"Chapter \d+ - (.+)\.txt"
 
 # Loop through each file in the output directory
 for filename in os.listdir("../output"):
-    # Match the chapter title using regex
-    match = re.match(pattern, filename)
-    if match:
-        chapter_title = match.group(1)
 
         # Read the chapter summary from the file
         with open(os.path.join("../output", filename), "r") as f:
@@ -42,5 +37,5 @@ for filename in os.listdir("../output"):
 
         # Generate the speech and save to file
         response = client.synthesize_speech(request=request)
-        with open(os.path.join("../audio", f"{chapter_title}.mp3"), "wb") as f:
+        with open(os.path.join("../audio", f"{filename}.mp3"), "wb") as f:
             f.write(response.audio_content)
