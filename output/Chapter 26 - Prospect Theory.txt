@@ -1,10 +1,5 @@
-Prospect Theory of Thinking
-In the 1970s, Daniel Kahneman and Amos Tversky developed a new theory of decision-making called Prospect Theory. This theory suggests that people make decisions based on the potential gains and losses associated with a particular choice. People are more likely to take risks when the potential gains are greater than the potential losses and vice versa.
-
-The theory proposes that people are more sensitive to losses than gains. This means that people are more likely to take risks to avoid losses than to gain something. This is known as loss aversion. People also tend to be risk-averse when the potential gains are small and the potential losses are large.
-
-The theory also suggests that people are more likely to take risks when the potential gains are immediate and the potential losses are delayed. This is known as temporal discounting. People tend to discount the value of future losses more than future gains.
-
-Finally, the theory proposes that people are more likely to take risks when the potential gains are certain and the potential losses are uncertain. This is known as risk aversion. People tend to be more risk-averse when the potential losses are uncertain and the potential gains are certain.
-
-Overall, Prospect Theory suggests that people make decisions based on the potential gains and losses associated with a particular choice. People are more likely to take risks when the potential gains are greater than the potential losses and when the potential gains are immediate and certain.
+Welcome to the chapter "The Characters of the Story" of Thinking, Fast and Slow by Daniel Kahneman. 
+In this chapter, Kahneman introduces two characters that represent two different systems of thinking. The first character is called System 1, which is fast, instinctive, and emotional. System 1 is responsible for automatic and effortless thinking, such as recognizing a face or understanding a joke. The second character is called System 2, which is slow, deliberate, and logical. System 2 is responsible for effortful cognitive tasks, such as solving a complex math problem or making a difficult decision. 
+Kahneman explains that System 1 is the dominant character in our lives, as it is always active and is responsible for most of our decisions. System 2 is the more rational character, but it is usually inactive and is only activated when we need to focus and think deeply about something. 
+Kahneman also explains that System 1 is prone to biases and errors, such as the confirmation bias and the availability heuristic. System 2 is more accurate, but it is also limited by its capacity and can be easily overwhelmed. 
+Finally, Kahneman explains that the two characters can work together to make better decisions. System 1 can provide the initial intuition, while System 2 can provide the analysis and evaluation. By understanding the two characters and how they interact, we can make better decisions and avoid the pitfalls of System 1.

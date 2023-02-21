@@ -16,10 +16,13 @@ chapter_names = ["The Characters of the Story", "Attention and Effort", "The Laz
                  "The Fourfold Pattern", "Rare Events", "Risk Policies", "Keeping Score", "Reversals", "Frames and Reality",
                  "Two Selves", "Life as a Story", "Experienced Well-Being", "Thinking About Life"]
 
+# Load prompt.txt from external file
+with open("prompt.txt", "r") as f:
+    prompt = f.read()
+
 # Loop through each chapter and summarize using OpenAI API
 for i, chapter_name in enumerate(chapter_names):
-    # Build prompt string
-    prompt = f"Summarize Chapter {chapter_name} of {book_title} by Daniel Kahneman in 400-600 tokens, highlighting the most important points. Start with the name of the chapter, don't mention the book. Speak as you are the author, but do not use first person. Tell it as story."
+    prompt = prompt.format(chapter_name=chapter_name, book_title=book_title)
 
     # Query OpenAI API
     response = openai.Completion.create(
@@ -34,6 +37,6 @@ for i, chapter_name in enumerate(chapter_names):
     # Extract summary text from API response
     summary = response.choices[0].text.strip()
     # Save summary to a text file
-    filename = f"/output/Chapter {i+1} - {chapter_name}.txt"
+    filename = f"output/Chapter {i+1} - {chapter_name}.txt"
     with open(filename, "w") as f:
         f.write(summary)

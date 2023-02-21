@@ -1,9 +1,13 @@
-Bernoulli’s Errors of Thinking examines the ways in which our minds can lead us astray when making decisions. It begins by discussing the work of the 18th-century Swiss mathematician, Daniel Bernoulli, who proposed that people make decisions based on expected utility. This idea suggests that people weigh the potential gains and losses of a decision and then choose the option that offers the greatest expected value.
+Welcome to Chapter The Characters of the Story of Thinking, Fast and Slow by Daniel Kahneman. In this chapter, we will explore the two characters that Kahneman introduces in his book: System 1 and System 2.
 
-However, this approach does not always lead to the best decisions. Kahneman explains that people often make decisions based on their emotions, rather than on the expected utility of the decision. This is known as the affect heuristic, which is a mental shortcut that relies on the emotions associated with a decision. For example, people may choose an option that has a lower expected value because it feels more comfortable or familiar.
+System 1 is the fast, intuitive, and emotional part of our brain. It is the one that makes snap decisions and is responsible for our gut reactions. System 1 is effortless and automatic, but it can be prone to biases and errors.
 
-Kahneman also discusses the availability heuristic, which is a mental shortcut that relies on the ease with which information can be recalled. People tend to overestimate the likelihood of events that are easily remembered, such as plane crashes or shark attacks. This can lead to irrational decisions, such as avoiding air travel because of an irrational fear of plane crashes.
+System 2 is the slow, analytical, and logical part of our brain. It is the one that requires effort and conscious thought. System 2 is responsible for making more complex decisions and is less prone to biases and errors.
 
-Finally, Kahneman examines the role of framing in decision-making. He explains that the way in which information is presented can influence the decisions people make. For example, people are more likely to choose an option if it is framed as a gain, rather than a loss.
+Kahneman argues that System 1 and System 2 are in constant interaction, and that we need to use both systems in order to make the best decisions. He also argues that System 1 is more powerful than System 2, and that it is often the one that makes the final decision.
 
-In conclusion, Bernoulli’s Errors of Thinking highlights the ways in which our minds can lead us astray when making decisions. It explains how the affect heuristic, availability heuristic, and framing can influence our decisions and lead to irrational outcomes.
+Kahneman also introduces the concept of “cognitive ease”, which is the feeling of comfort and familiarity that comes with using System 1. He argues that when we are in a state of cognitive ease, we are more likely to make decisions based on System 1.
+
+Finally, Kahneman introduces the concept of “cognitive strain”, which is the feeling of discomfort and unfamiliarity that comes with using System 2. He argues that when we are in a state of cognitive strain, we are more likely to make decisions based on System 2.
+
+So in summary, this chapter introduces the two characters of Thinking, Fast and Slow: System 1 and System 2. It also introduces the concepts of cognitive ease and cognitive strain, and argues that we need to use both systems in order to make the best decisions.

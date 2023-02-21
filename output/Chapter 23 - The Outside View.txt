@@ -1,8 +1,11 @@
-Outside View of Thinking:
-In this chapter, I explore the concept of the outside view of thinking. This is a way of looking at a problem from a different perspective, one that is not necessarily your own. It involves taking a step back and looking at the situation from a more objective point of view. This can be useful in making decisions and solving problems.
+Welcome to Chapter The Characters of the Story of Thinking, Fast and Slow. In this chapter, Daniel Kahneman introduces two characters that represent two different systems of thinking: System 1 and System 2. 
 
-The outside view of thinking is based on the idea that we can learn from the experiences of others. By looking at the experiences of others, we can gain valuable insights into our own situation. This can help us to make better decisions and to avoid making mistakes.
+System 1 is fast, automatic, effortless, associative, and emotional. It is the intuitive, automatic, and often unconscious way of thinking. System 1 is responsible for most of the decisions we make in our daily lives. 
 
-The outside view of thinking is also useful in understanding the behavior of others. By looking at the behavior of others, we can gain insight into our own behavior and how it might be affecting our decisions. This can help us to make better decisions and to understand why others may be making different decisions than us.
+System 2 is slower, more deliberative, and more logical. It is the conscious, effortful, and analytical way of thinking. System 2 is responsible for more complex decisions and problem-solving. 
 
-Finally, the outside view of thinking can help us to think more critically about our own decisions. By looking at the decisions of others, we can gain insight into our own decision-making process and how it might be influencing our decisions. This can help us to make better decisions and to think more critically about our own decisions.
+Kahneman explains that System 1 is the source of many of our cognitive biases and errors. System 1 is prone to overconfidence, and it is easily influenced by our environment. System 2 is more reliable, but it is also more prone to fatigue and distraction. 
+
+Kahneman also explains that System 1 and System 2 are not mutually exclusive. We use both systems in our daily lives, and they often interact with each other. For example, System 1 can provide us with useful information that can be used by System 2 to make more informed decisions. 
+
+Finally, Kahneman explains that we can use System 2 to override System 1 and make better decisions. By understanding the strengths and weaknesses of both systems, we can become better decision-makers.

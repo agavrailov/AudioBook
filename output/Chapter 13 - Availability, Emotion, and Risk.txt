@@ -1,1 +1,11 @@
-Chapter Availability, Emotion, and Risk of Thinking, Fast and Slow: This chapter explores the idea that people often rely on mental shortcuts, known as heuristics, to make decisions. Heuristics are based on the availability of information and the emotions associated with it. The availability of information is determined by how easily it can be recalled or imagined. Emotions can influence decisions by making certain options appear more attractive than others. Additionally, people often take risks when making decisions, which can lead to poor outcomes. The chapter also discusses how people can use System 2 thinking to make more informed decisions. System 2 thinking involves taking the time to carefully consider all the available information and making a decision based on that. By using System 2 thinking, people can make more informed decisions and reduce the risk of making poor decisions.
+Welcome to the chapter 'The Characters of the Story' from Thinking, Fast and Slow by Daniel Kahneman. In this chapter, Kahneman introduces two characters that represent two different approaches to thinking. 
+
+The first character is System 1, which is fast, instinctive, and emotional. System 1 is responsible for making snap judgments, recognizing patterns, and making associations. It is also the source of many of our biases and errors in judgment. 
+
+The second character is System 2, which is slow, deliberate, and logical. System 2 is responsible for more complex thinking, such as problem-solving and decision-making. It is also the source of our conscious thought and self-control. 
+
+Kahneman explains that System 1 and System 2 are not completely separate entities, but rather they work together in a dynamic relationship. System 1 is constantly providing input to System 2, and System 2 is constantly evaluating and refining the input from System 1. 
+
+Kahneman also explains that System 1 and System 2 are both necessary for making decisions. System 1 provides the initial input and System 2 provides the analysis and refinement. He argues that the best decisions are made when both systems are working together in harmony. 
+
+Kahneman concludes the chapter by emphasizing the importance of understanding the two systems and how they work together. He argues that understanding the two systems can help us make better decisions and avoid errors in judgment.

@@ -1,9 +1,8 @@
-Causes Trump Statistics
+Welcome to the chapter "The Characters of the Story" of Thinking, Fast and Slow by Daniel Kahneman. 
+In this chapter, Kahneman introduces two characters that represent the two systems of thinking: System 1 and System 2. System 1 is fast, instinctive, and emotional. It is the automatic and effortless way of thinking. System 2 is slow, deliberative, and logical. It is the conscious and effortful way of thinking. 
 
-In this chapter, I discuss how people often make decisions based on their gut feelings and intuition, rather than on the facts and figures. This is known as "causal thinking" and it can be very powerful. It is often more effective than relying solely on statistics, which can be misleading or incomplete.
+Kahneman explains that System 1 is the dominant character in our lives. It is responsible for most of our decisions, judgments, and actions. System 2 is the lazy character; it is easily tired and easily distracted. System 2 is only engaged when it is necessary, such as when we are faced with difficult tasks or when we need to make important decisions. 
 
-I explain how people often make decisions based on a few key factors, such as the perceived importance of the issue or the perceived trustworthiness of the source. This is often done without considering the full range of data or the potential consequences of the decision.
+Kahneman also explains that System 1 is prone to errors and biases. It is influenced by our past experiences and our emotions. System 2 is more reliable and logical, but it is also limited by its lack of knowledge and its limited capacity. 
 
-I also discuss how people often rely on mental shortcuts and heuristics to make decisions. These mental shortcuts can be helpful in some cases, but they can also lead to errors and bad decisions.
-
-Finally, I discuss how people can use causal thinking to make better decisions. I explain how it is important to consider the full range of data, to think critically about the potential consequences of a decision, and to be aware of the potential biases that may be influencing one's thinking.
+Kahneman argues that we should strive to use System 2 as much as possible, as it is more reliable and less prone to errors. He also argues that we should strive to be aware of the limitations of both systems and to recognize when one system is more appropriate than the other.

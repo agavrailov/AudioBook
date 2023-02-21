@@ -1,9 +1,11 @@
-Reversals of Thinking:
+Welcome to Chapter 4 of Thinking, Fast and Slow: The Characters of the Story. In this chapter, Daniel Kahneman introduces two characters that represent two distinct systems of thought. 
 
-In this chapter, I explore the idea of "reversals of thinking" - a concept that has been around for centuries, but has recently been gaining more attention in the field of psychology. Reversals of thinking involve taking a situation or problem and looking at it from a different perspective, often resulting in a different solution or outcome.
+The first character is System 1, which is fast, instinctive, and emotional. It is the part of the mind that works without conscious effort and is responsible for snap judgments and impressions. System 1 is also responsible for the automatic processes that are essential for efficient behavior. 
 
-I discuss the two systems of thinking - fast and slow - and how they can be used to make decisions. Fast thinking is instinctive and often leads to snap decisions, while slow thinking is more deliberative and can lead to more thoughtful decisions. I explain how both systems can be used in different situations and how they can be combined to create better outcomes.
+The second character is System 2, which is slow, deliberate, and logical. It is the part of the mind that requires conscious effort and is responsible for complex computations, such as solving equations or making decisions. System 2 is also responsible for the conscious processes that are essential for self-control. 
 
-I also discuss the concept of cognitive biases, which are mental shortcuts that can lead to irrational decisions. I explain how cognitive biases can be identified and how they can be avoided by using a more deliberative approach to decision-making.
+Kahneman explains that System 1 and System 2 are not two separate systems, but rather two complementary systems that work together. He also explains that System 1 is more influential than System 2, and that it is often responsible for the mistakes we make. 
 
-Finally, I provide examples of how reversals of thinking can be used to improve decision-making. I explain how it can be used to identify and address cognitive biases, as well as to explore different solutions to a problem. I also discuss how it can be used to create a more creative and innovative approach to problem-solving.
+Kahneman also discusses the concept of “dual process theory”, which states that both System 1 and System 2 are necessary for making decisions. He explains that System 1 is responsible for generating ideas and System 2 is responsible for evaluating them. 
+
+Finally, Kahneman explains that System 1 and System 2 are not fixed, but rather can be trained and improved. He suggests that by understanding how these two systems work, we can become better decision makers and better thinkers.

@@ -1,10 +1,11 @@
-Regression to the Mean
-When we make judgments or predictions, we often overestimate the likelihood of extreme outcomes. This phenomenon is known as regression to the mean. It occurs when a random event is extreme on its first occurrence but is likely to be closer to the average on its second occurrence.
+Welcome to the chapter on the Characters of the Story in Thinking, Fast and Slow by Daniel Kahneman. In this chapter, we will explore the two main characters of the book: System 1 and System 2. 
 
-Regression to the mean is a powerful force that affects our lives in many ways. It is the reason why we should be cautious when making predictions based on a single observation. It is also the reason why we should be careful when making judgments about people or events based on a single experience.
+System 1 is the fast, instinctive, and emotional part of the mind. It is the part of the mind that makes snap judgments and decisions, and is often the source of our intuition. It is also the part of the mind that is prone to biases and errors. 
 
-Regression to the mean is an important concept in statistics and decision making. It is the reason why we should be careful when making predictions based on a single observation. It is also the reason why we should be cautious when making judgments about people or events based on a single experience.
+System 2 is the slow, deliberate, and logical part of the mind. It is the part of the mind that is responsible for conscious thought and rational decision-making. It is the part of the mind that requires effort and concentration to engage. 
 
-Regression to the mean can be used to explain why some people seem to have a knack for luck. It can also be used to explain why some people seem to be more successful than others. It is important to remember that luck and success are often the result of multiple factors, and regression to the mean is just one of them.
+Kahneman argues that System 1 and System 2 are both necessary for making decisions. System 1 is necessary for making quick decisions in the moment, while System 2 is necessary for making more thoughtful and reasoned decisions. 
 
-Regression to the mean is an important concept to understand when making decisions and predictions. It is the reason why we should be cautious when making predictions based on a single observation, and why we should be careful when making judgments about people or events based on a single experience.
+Kahneman also argues that System 1 and System 2 can sometimes conflict with each other. For example, System 1 may be telling us to make a snap judgment, while System 2 is telling us to take a step back and think things through. 
+
+In conclusion, System 1 and System 2 are the two main characters of Thinking, Fast and Slow. They are both necessary for making decisions, but can sometimes conflict with each other.
