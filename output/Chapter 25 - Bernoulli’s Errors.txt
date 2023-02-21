@@ -1,0 +1,9 @@
+Bernoulli’s Errors of Thinking examines the ways in which our minds can lead us astray when making decisions. It begins by discussing the work of the 18th-century Swiss mathematician, Daniel Bernoulli, who proposed that people make decisions based on expected utility. This idea suggests that people weigh the potential gains and losses of a decision and then choose the option that offers the greatest expected value.
+
+However, this approach does not always lead to the best decisions. Kahneman explains that people often make decisions based on their emotions, rather than on the expected utility of the decision. This is known as the affect heuristic, which is a mental shortcut that relies on the emotions associated with a decision. For example, people may choose an option that has a lower expected value because it feels more comfortable or familiar.
+
+Kahneman also discusses the availability heuristic, which is a mental shortcut that relies on the ease with which information can be recalled. People tend to overestimate the likelihood of events that are easily remembered, such as plane crashes or shark attacks. This can lead to irrational decisions, such as avoiding air travel because of an irrational fear of plane crashes.
+
+Finally, Kahneman examines the role of framing in decision-making. He explains that the way in which information is presented can influence the decisions people make. For example, people are more likely to choose an option if it is framed as a gain, rather than a loss.
+
+In conclusion, Bernoulli’s Errors of Thinking highlights the ways in which our minds can lead us astray when making decisions. It explains how the affect heuristic, availability heuristic, and framing can influence our decisions and lead to irrational outcomes.

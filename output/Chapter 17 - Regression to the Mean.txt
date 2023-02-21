@@ -1,0 +1,10 @@
+Regression to the Mean
+When we make judgments or predictions, we often overestimate the likelihood of extreme outcomes. This phenomenon is known as regression to the mean. It occurs when a random event is extreme on its first occurrence but is likely to be closer to the average on its second occurrence.
+
+Regression to the mean is a powerful force that affects our lives in many ways. It is the reason why we should be cautious when making predictions based on a single observation. It is also the reason why we should be careful when making judgments about people or events based on a single experience.
+
+Regression to the mean is an important concept in statistics and decision making. It is the reason why we should be careful when making predictions based on a single observation. It is also the reason why we should be cautious when making judgments about people or events based on a single experience.
+
+Regression to the mean can be used to explain why some people seem to have a knack for luck. It can also be used to explain why some people seem to be more successful than others. It is important to remember that luck and success are often the result of multiple factors, and regression to the mean is just one of them.
+
+Regression to the mean is an important concept to understand when making decisions and predictions. It is the reason why we should be cautious when making predictions based on a single observation, and why we should be careful when making judgments about people or events based on a single experience.

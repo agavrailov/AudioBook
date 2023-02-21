@@ -34,6 +34,6 @@ for i, chapter_name in enumerate(chapter_names):
     # Extract summary text from API response
     summary = response.choices[0].text.strip()
     # Save summary to a text file
-    filename = f"../output/Chapter {i+1} - {chapter_name}.txt"
+    filename = f"/output/Chapter {i+1} - {chapter_name}.txt"
     with open(filename, "w") as f:
         f.write(summary)

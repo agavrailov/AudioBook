@@ -1,0 +1,11 @@
+Risk Policies of Thinking, Fast and Slow:
+
+This chapter explores the concept of risk policies and how they can be used to make decisions. Risk policies are a set of rules that help people decide when to take risks and when to avoid them. They are based on the idea that people have different preferences for risk, and that these preferences can be used to make decisions.
+
+The chapter begins by discussing the concept of risk aversion, which is the tendency to avoid taking risks. It then looks at the concept of risk tolerance, which is the willingness to take risks. The chapter then examines the different types of risk policies, including the maximin policy, which is the policy of choosing the option that has the least amount of risk, and the maximax policy, which is the policy of choosing the option that has the most potential for reward.
+
+The chapter then looks at how risk policies can be used in decision-making. It discusses the concept of expected utility, which is the expected value of a decision based on the probability of its outcome. It also looks at the concept of expected value, which is the expected value of a decision based on the expected utility of its outcome.
+
+Finally, the chapter looks at how risk policies can be used to make decisions in the real world. It discusses the concept of risk-adjusted return, which is the expected return of a decision after taking into account the risk associated with it. It also looks at the concept of risk-adjusted performance, which is the performance of a decision after taking into account the risk associated with it.
+
+Overall, this chapter explores the concept of risk policies and how they can be used to make decisions. It discusses the different types of risk policies, how they can be used in decision-making, and how they can be used to make decisions in the real world.

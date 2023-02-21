@@ -1,0 +1,9 @@
+Law of Small Numbers is an important concept in decision making. It states that people tend to draw conclusions from small samples, even though the sample size is too small to be reliable. This can lead to incorrect conclusions and decisions.
+
+The law of small numbers is based on the idea that people tend to overestimate the accuracy of small samples. This is because people tend to focus on the most extreme cases, and ignore the fact that the sample size is too small to be reliable. This can lead to incorrect conclusions and decisions.
+
+For example, a person might draw conclusions about a company's performance based on a small sample of its financial statements. This could lead to incorrect conclusions about the company's overall performance. Similarly, a person might draw conclusions about a political candidate based on a small sample of their speeches. This could lead to incorrect conclusions about the candidate's overall views.
+
+The law of small numbers can also lead to incorrect conclusions about the probability of an event occurring. For example, a person might draw conclusions about the probability of a coin landing on heads based on a small sample of coin flips. This could lead to incorrect conclusions about the probability of the coin landing on heads.
+
+The law of small numbers is an important concept in decision making. It states that people tend to draw conclusions from small samples, even though the sample size is too small to be reliable. This can lead to incorrect conclusions and decisions. It is important to be aware of the law of small numbers when making decisions, and to use larger samples when possible.
