@@ -1,5 +1,7 @@
 import openai
 import os
+import random
+import string
 
 # Set up OpenAI API credentials
 openai.api_key = "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"
@@ -16,13 +18,16 @@ chapter_names = ["The Characters of the Story", "Attention and Effort", "The Laz
                  "The Fourfold Pattern", "Rare Events", "Risk Policies", "Keeping Score", "Reversals", "Frames and Reality",
                  "Two Selves", "Life as a Story", "Experienced Well-Being", "Thinking About Life"]
 
-# Load prompt.txt from external file
-with open("prompt.txt", "r") as f:
-    prompt = f.read()
-
 # Loop through each chapter and summarize using OpenAI API
 for i, chapter_name in enumerate(chapter_names):
-    prompt = prompt.format(chapter_name=chapter_name, book_title=book_title)
+    # Build prompt string
+    # prompt = f"Summarize Chapter {chapter_name} of {book_title} by Daniel Kahneman in 400-600 tokens, highlighting the most important points. Don't mention the book name. Tell it as a story. Put chapter name as a title of the completion.  Don't make an overview or conclusion. Give stories and examples from the book every time when possible."
+
+    # Generate a random string of 5 characters
+    random_string = ''.join(random.choices(string.ascii_uppercase + string.digits, k=9))
+
+    # Build prompt string with random string appended
+    prompt = f"I am telling a story spread in several chapters to audio book listeners. They listened to other parts already and have context. Explain Chapter {chapter_name} of book {book_title} by Daniel Kahneman in 400-600 tokens, highlighting the most important points. Don't mention the book name. Tell it as a story. Put chapter name as the title of the completion.  Don't make an overview or conclusion. Give stories and examples from the book each paragraph.  {random_string}"
 
     # Query OpenAI API
     response = openai.Completion.create(
@@ -32,7 +37,7 @@ for i, chapter_name in enumerate(chapter_names):
         max_tokens=600,
         top_p=1,
         frequency_penalty=0,
-        presence_penalty=0
+        presence_penalty=0.3
     )
     # Extract summary text from API response
     summary = response.choices[0].text.strip()

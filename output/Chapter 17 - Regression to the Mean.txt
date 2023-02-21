@@ -1,11 +1,13 @@
-Welcome to the chapter on the Characters of the Story in Thinking, Fast and Slow by Daniel Kahneman. In this chapter, we will explore the two main characters of the book: System 1 and System 2. 
+Chapter Regression to the Mean
 
-System 1 is the fast, instinctive, and emotional part of the mind. It is the part of the mind that makes snap judgments and decisions, and is often the source of our intuition. It is also the part of the mind that is prone to biases and errors. 
+Regression to the mean is a phenomenon that occurs when a variable that is extreme on its first measurement tends to be closer to the average on its second measurement. In this chapter, we will explore how this phenomenon affects our lives and how it can be used to make better decisions.
 
-System 2 is the slow, deliberate, and logical part of the mind. It is the part of the mind that is responsible for conscious thought and rational decision-making. It is the part of the mind that requires effort and concentration to engage. 
+The author starts by introducing us to the concept of regression to the mean. He explains that it is a natural phenomenon that occurs when an extreme value of a variable is followed by a less extreme value. He then gives an example of a student who got an unusually high score on a test and then got a lower score on the next test. This is an example of regression to the mean.
 
-Kahneman argues that System 1 and System 2 are both necessary for making decisions. System 1 is necessary for making quick decisions in the moment, while System 2 is necessary for making more thoughtful and reasoned decisions. 
+The author then goes on to explain how regression to the mean can be used to make better decisions. He uses the example of a doctor who is trying to diagnose a patient. If the doctor notices that the patient's symptoms are unusually extreme, he should take into account the fact that the patient's symptoms may regress to the mean. This means that the doctor should not jump to conclusions based on the initial extreme symptoms.
 
-Kahneman also argues that System 1 and System 2 can sometimes conflict with each other. For example, System 1 may be telling us to make a snap judgment, while System 2 is telling us to take a step back and think things through. 
+The author then goes on to discuss how regression to the mean can be used in other areas of life. He gives the example of a stock market investor who notices that a stock has gone up significantly in a short period of time. The investor should take into account the fact that the stock may regress to the mean and not make any hasty decisions.
 
-In conclusion, System 1 and System 2 are the two main characters of Thinking, Fast and Slow. They are both necessary for making decisions, but can sometimes conflict with each other.
+Finally, the author talks about how regression to the mean can be used to make predictions. He explains that if you have a good understanding of the phenomenon, you can use it to predict future outcomes. For example, if you know that a stock has gone up significantly in a short period of time, you can predict that it will eventually regress to the mean.
+
+In conclusion, this chapter explores the phenomenon of regression to the mean and how it can be used to make better decisions. It is an important concept to understand and can be used to make predictions about future outcomes.

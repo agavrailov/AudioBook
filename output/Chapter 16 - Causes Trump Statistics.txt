@@ -1,8 +1,11 @@
-Welcome to the chapter "The Characters of the Story" of Thinking, Fast and Slow by Daniel Kahneman. 
-In this chapter, Kahneman introduces two characters that represent the two systems of thinking: System 1 and System 2. System 1 is fast, instinctive, and emotional. It is the automatic and effortless way of thinking. System 2 is slow, deliberative, and logical. It is the conscious and effortful way of thinking. 
+Chapter Causes Trump Statistics
 
-Kahneman explains that System 1 is the dominant character in our lives. It is responsible for most of our decisions, judgments, and actions. System 2 is the lazy character; it is easily tired and easily distracted. System 2 is only engaged when it is necessary, such as when we are faced with difficult tasks or when we need to make important decisions. 
+Have you ever heard of the phrase “correlation does not imply causation”? It is a concept that is explored in depth in the book Thinking, Fast and Slow by Daniel Kahneman. This chapter focuses on how correlation does not always mean causation, and how it is important to be aware of this when looking at statistics. 
 
-Kahneman also explains that System 1 is prone to errors and biases. It is influenced by our past experiences and our emotions. System 2 is more reliable and logical, but it is also limited by its lack of knowledge and its limited capacity. 
+Kahneman uses the example of a study that showed a correlation between the number of storks in a region and the number of babies born in that region. This correlation led people to believe that storks were responsible for bringing babies, when in reality, the correlation was caused by the fact that both storks and babies were more likely to be found in areas with more people. 
 
-Kahneman argues that we should strive to use System 2 as much as possible, as it is more reliable and less prone to errors. He also argues that we should strive to be aware of the limitations of both systems and to recognize when one system is more appropriate than the other.
+Kahneman also discusses the concept of “spurious correlations”, which are correlations that appear to be meaningful, but in reality have no causal relationship. He gives the example of a study that found a correlation between the number of films Nicolas Cage appeared in and the number of people who drowned in a pool. While this correlation appears to be meaningful, it is actually caused by the fact that both Nicolas Cage films and pool drownings are more likely to occur in the summer months. 
+
+Kahneman also talks about how it is important to be aware of the “selection bias” when looking at statistics. This is when certain groups of people are more likely to be included in a study than others, which can lead to skewed results. He gives the example of a study that looked at the effects of a certain drug on heart disease. The study only included people who had already been diagnosed with heart disease, which meant that the results could not be applied to the general population. 
+
+In conclusion, this chapter of Thinking, Fast and Slow by Daniel Kahneman emphasizes the importance of being aware of the potential pitfalls of looking at statistics. Correlation does not always imply causation, and it is important to be aware of spurious correlations and selection bias when looking at data.

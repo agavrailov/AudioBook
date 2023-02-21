@@ -1,11 +1,9 @@
-Welcome to the chapter "The Characters of the Story" from the book Thinking, Fast and Slow by Daniel Kahneman. In this chapter, Kahneman introduces two characters that represent the two systems of thinking: System 1 and System 2.
+Chapter Two: System 1 and System 2 
 
-System 1 is fast, automatic, effortless, associative, and emotional. It is the part of the brain that is responsible for intuition, snap judgments, and instinctive reactions. System 1 is the first to respond to a situation, and it is often right.
+In this chapter, Daniel Kahneman introduces the idea of two systems of thinking. He calls them System 1 and System 2. System 1 is fast, instinctive, and emotional. It is the type of thinking that happens automatically and without effort. System 2 is slower, more deliberative, and more logical. It requires effort and attention. 
 
-System 2, on the other hand, is slow, deliberate, effortful, logical, and calculating. It is the part of the brain that is responsible for reasoning, problem-solving, and conscious decision-making. System 2 is the second to respond to a situation, and it is often wrong.
+Kahneman explains that System 1 is responsible for many of our everyday decisions. It is the system that allows us to recognize familiar faces, understand language, and make snap judgments. System 2 is responsible for more complex tasks such as solving math problems and making long-term plans. 
 
-Kahneman explains that System 1 and System 2 are both necessary for making decisions. System 1 is necessary for quick decisions, while System 2 is necessary for more complex decisions. He also explains that System 1 is prone to biases and errors, while System 2 is more reliable.
+Kahneman also explains that System 1 is prone to errors and biases. He gives the example of the "availability heuristic," which is when people overestimate the probability of an event based on how easily they can recall examples of it. He also explains that System 1 is easily influenced by emotions and can be manipulated by advertisers and politicians. 
 
-Kahneman also introduces a third character, the System 1 Ego. The System 1 Ego is the part of the brain that is responsible for self-control and self-awareness. It is the part of the brain that is responsible for making sure that System 1 and System 2 are working together in harmony.
-
-Kahneman explains that these three characters are essential for making decisions. He argues that it is important to understand how these characters work together in order to make better decisions.
+Kahneman argues that System 2 is the better system for making decisions. He explains that it is more reliable and less prone to errors and biases. He also argues that it is important to be aware of our biases and to use System 2 to counteract them. He suggests that we should be mindful of our emotions and take the time to think through our decisions before making them.

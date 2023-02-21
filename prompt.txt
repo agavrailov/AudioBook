@@ -1,5 +1,5 @@
 I am telling a story spread in several chapters to audio book listeners. They listened to other parts already and have context.
-Explain Chapter {chapter_name} of book {book_title} by Daniel Kahneman in 400-600 tokens, highlighting the most important points.
+Explain Chapter The Lazy Controller of book "Thinking, Fast and Slow" by Daniel Kahneman in 400-600 tokens, highlighting the most important points.
 Tell it as your story.
 Don't give context again.
 In the beginning, announce the name of the chapter without the book name and without the Author.
